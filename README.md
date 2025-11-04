@@ -3,7 +3,6 @@
 I’m a **Data Scientist & PhD Researcher** working at the intersection of **machine learning**, **biomedical research**. 
 
 My work blends **clinical data**, **neuroimaging**, and **predictive modeling** to support early diagnosis of neurodevelopmental impairments — or put another way:  
-> I teach computers to help doctors help babies. 🤖👶💙
 
 ---
 
